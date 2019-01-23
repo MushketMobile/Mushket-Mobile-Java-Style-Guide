@@ -2,8 +2,9 @@
 
 You should also check out our other style guides too:
 
-* [Swift](https://github.com/MushketMobile/Mushket-Mobile-Swift-Style-Guide)
 * [Kotlin](https://github.com/MushketMobile/Mushket-Mobile-Kotlin-Style-Guide)
+* [Swift](https://github.com/MushketMobile/Mushket-Mobile-Swift-Style-Guide)
+* [Objective-C](https://github.com/MushketMobile/Mushket-Mobile-Objective-C-Style-Guide)
 
 ## Inspiration
 
