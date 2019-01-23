@@ -20,13 +20,9 @@ style that can be imported into Android Studio.
 First, clone this repository and run `install.sh`.
 
 Then, open Android Studio. To set this codestyle as the default, select
-__File > Other Settings > Default Settings...__:
+__File > Other Settings > Default Settings...__
 
-![Default Settings](resources/default_settings.png)
-
-In __Editor > Code Style__, choose the __Scheme__ :
-
-![Setting the Scheme](resources/setting_scheme.png)
+In __Editor > Code Style__, choose the __Scheme__
 
 From now on, projects you create _should_ follow the correct style guidelines.
 
